@@ -1,2 +1,2 @@
-# Padr-es-de-Software
+# Padroes-de-Software
 Trabalho para padrões de software
